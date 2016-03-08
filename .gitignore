@@ -1,0 +1,6 @@
+#my ingnore elemetes :
+*.vcxproj
+*.filters
+Debug
+
+
